@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+p {
+  font-weight: bold;
+  display: inline-block;
+  margin: 0 10px 20px;
+}
+
+input {
+  display: inline-block;
+}
+
+.centrar {
+  text-align: center;
+}
+
+.resultado{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
